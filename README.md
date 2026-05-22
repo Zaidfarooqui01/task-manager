@@ -10,8 +10,8 @@ A production-ready, full-stack Team Task Manager web application with role-based
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | *[To be deployed on Railway]* |
-| **Backend API** | *[To be deployed on Railway]* |
+| **Frontend** | https://frontend-production-f3fa5.up.railway.app |
+| **Backend API** | https://task-manager-production-d3de.up.railway.app/ |
 
 ### Demo Credentials
 
